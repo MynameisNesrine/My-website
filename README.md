@@ -1,20 +1,18 @@
-# My-website
+# My Website
 
 Welcome to my website! This is a simple website showcasing my work and projects.
 
-## Features
+## Files
 
-- Project 1
-- Project 2
-- Contact information
+- "bio.html" : This is the main HTML file that contains the structure and content of the website.
+- "style.css": This CSS file provides the styles and layout for the website.
 
 ## Usage
 
-1. Clone the repository.
-2. Open the `index.html` file in your web browser.
-3. Explore the website and enjoy!
+1. Clone the repository to your local machine.
+2. Open the "bio.html" file in a web browser to view the website.
 
 ## Contact
 
-If you have any questions or feedback, feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or feedback, feel free to reach out to me at [Nesrinee.haddad@gmail.com]
 
